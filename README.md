@@ -29,7 +29,7 @@
 
 ## 📚 Atualmente aprendendo
 
-- React
+- python
 - APIs
 - Responsividade
 - Boas práticas de Front-End
