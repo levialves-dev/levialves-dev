@@ -1,6 +1,6 @@
  #  Oi, eu sou Levi Alves!👋
 
-##Sobre mim
+## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPE)
 - 🌱 Atualmente estudando Front-End
