@@ -1,6 +1,6 @@
  #  Oi, eu sou Levi Alves!👋
 
-## 💻 Sobre mim
+##Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPE)
 - 🌱 Atualmente estudando Front-End
@@ -8,7 +8,7 @@
 - 💡 Interesso-me por Desenvolvimento Web e Tecnologia
 - 🎮 Gamer nas horas vagas
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 
 <p align="left">
@@ -27,7 +27,7 @@
 </p>
 
 
-## 📚 Atualmente aprendendo
+## Atualmente aprendendo
 
 - python
 - APIs
