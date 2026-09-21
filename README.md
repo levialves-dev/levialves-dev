@@ -3,9 +3,9 @@
 ## Sobre mim
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPE)
-- 🌱 Atualmente estudando Front-End
-- 🚀 Participante do programa Transforme-se
-- 💡 Interesso-me por Desenvolvimento Web e Tecnologia
+-  Atualmente estudando Front-End
+-  Participante do programa Transforme-se
+-  Interesso-me por Desenvolvimento Web e Tecnologia
 - 🎮 Gamer nas horas vagas
 
 ## Tecnologias
@@ -35,5 +35,9 @@
 - Boas práticas de Front-End
 - Java 
 ## 📫 Contato
-
 - LinkedIn: https://www.linkedin.com/in/levi-alves-30350833b
+
+<p align="left">
+<img width="3072" height="2048" alt="15304782085b393e802f653_1530478208_3x2_md" src="https://github.com/user-attachments/assets/8065e505-620c-4900-9df2-1f845b687e1c" />
+</p>
+"
